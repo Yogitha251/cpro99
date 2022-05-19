@@ -8,9 +8,9 @@ def main():
 	deletedfolderscount = 0
 	deletedfilescount = 0
 
-	path = "C:\Users\veena\OneDrive\Pictures\Saved Pictures"
+	path = "./abc/"
 
-	days = 30
+	days = 2
 
 	seconds = time.time()-(days * 24 * 60 * 60)
 
